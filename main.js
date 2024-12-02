@@ -80,6 +80,8 @@ function cleardata(){
 
 //4-Read
 
+console.log("hello world")
+
 function showdata(){
 
     let tableau;
